@@ -6,6 +6,7 @@ public class Main {
         System.out.println("");
         int a = 34;
         System.out.println(a);
+        System.out.println("3тья оотправка. ветка не мастер");
     }
 }
 
